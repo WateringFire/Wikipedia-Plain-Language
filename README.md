@@ -5,7 +5,7 @@
 * Home page (what is this website compared to simple wikipedia)
 * What have we translated
 * Form to request things to be translated
-* What is being translated (alongside a progress bar - make the sheet prettier and mroe accessibile)
+* What is being translated (alongside a progress bar - make the sheet prettier and more accessibile)
 * How would (you) create plain langauge translations
 
 # Pages to include: 
