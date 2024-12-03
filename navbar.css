@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 1em;
+    box-shadow: 0 1px 8px #ddd;
+}
+
+.menu {
+  margin-left: auto;
+}
+.menu > a {
+    font-family: sans-serif;
+    padding: 0 20px;
+    font-size: 1.25em;
+
+  }
+
+  h1 {
+    align-content: left;
+    font-family: serif;
+    text-align: left;
+  }
+
